@@ -2,6 +2,14 @@
 
 This project is a web-based bookstore application developed. The application includes standard CRUD operations for managing books and incorporates an AI-based feature. The communication between the front-end and back-end is implemented using REST APIs. 
 
+
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GppCalcagno/AI-Enhanced-Web-Bookstore/main/Assets/homepage.png" width="550">
+  <img src="https://raw.githubusercontent.com/GppCalcagno/AI-Enhanced-Web-Bookstore/main/Assets/review.png" width="550">
+</div>
+
 ## 🗝️ Key Features
 
 1. 📖 **View Books**: Users can see all books in the inventory.
@@ -21,6 +29,10 @@ This project is a web-based bookstore application developed. The application inc
 - **Frontend**: [ReactJS](https://react.dev/)
 - **Backend**: [Python Django](https://www.djangoproject.com/)
 - **Database**: SQLite3 (Relational DB)
+
+<div align="center">
+<img src="https://github.com/GppCalcagno/AI-Enhanced-Web-Bookstore/blob/main/Assets/architectures.png?raw=true" width="500">
+</div>
 
 ## Repository Organization 📂
 
