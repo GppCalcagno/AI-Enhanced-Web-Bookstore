@@ -31,7 +31,7 @@ This project is a web-based bookstore application developed. The application inc
 - **Database**: SQLite3 (Relational DB)
 
 <div align="center">
-<img src="https://github.com/GppCalcagno/AI-Enhanced-Web-Bookstore/blob/main/Assets/architectures.png?raw=true" width="500">
+<img src="https://github.com/GppCalcagno/AI-Enhanced-Web-Bookstore/blob/main/Assets/architecture.png?raw=true" width="500">
 </div>
 
 ## Repository Organization 📂
